@@ -1,7 +1,7 @@
 # PotteryDollShopWebsite-React
 Pottery Doll Shop Website is written using React JavaScript in its built version.
 
-##Pottery Doll Shop Website features:
+#Pottery Doll Shop Website features:
 
 <p>- Home page: The main landing page of the website.</p>
 <p>- All Products page: Displays all the available products.</p>
